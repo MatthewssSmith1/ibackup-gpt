@@ -1,0 +1,12 @@
+{
+  "name": "ibackup-gpt",
+  "version": "1.0.0",
+  "description": "CLI tool to query iPhone backups with GPT.",
+  "main": "index.js",
+  "repository": "https://github.com/MatthewssSmith1/ibackup-gpt.git",
+  "author": "Matt Smith <matthewsssmith1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
